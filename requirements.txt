@@ -1,0 +1,12 @@
+# Dependencias del sistema de deteccion de placas y pico y placa
+tensorflow>=2.16.0
+opencv-python>=4.9.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+pillow>=10.0.0
+scikit-learn>=1.4.0
+holidays>=0.45
+anthropic>=0.39.0
+
+# Opcional: motor OCR clasico para comparar con la CNN propia
+# pytesseract>=0.3.10

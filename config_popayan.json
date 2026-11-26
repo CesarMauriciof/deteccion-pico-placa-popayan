@@ -1,0 +1,22 @@
+{
+  "ciudad": "Popayán",
+  "vigencia": "Segundo semestre de 2026 (con sanciones desde el 6 de julio de 2026)",
+  "norma": "Decreto 20261000000355 del 9 de enero de 2026, Alcaldía de Popayán",
+  "vehiculos": "Carros particulares y motocicletas (último dígito de la placa)",
+  "hora_inicio": "07:00",
+  "hora_fin": "20:00",
+  "nota_horario": "Verificar el horario con la Secretaría de Tránsito: en 2026 algunos medios publicaron 7:00 a. m. - 8:00 p. m. y otros 8:00 a. m. - 6:00 p. m.",
+  "rotacion": {
+    "lunes": [9, 0],
+    "martes": [1, 2],
+    "miercoles": [3, 4],
+    "jueves": [5, 6],
+    "viernes": [7, 8]
+  },
+  "aplica_sabados": false,
+  "aplica_domingos": false,
+  "aplica_festivos": false,
+  "sancion": "Infracción C.14 del Código Nacional de Tránsito: multa e inmovilización del vehículo.",
+  "excepciones": "Hay excepciones (por ejemplo, vehículos de emergencia o de personas con discapacidad, Leyes 2623 y 2624 de 2026). Consulte la lista completa con la Secretaría de Tránsito y Transporte de Popayán.",
+  "fuente": "El País, 'Desde el 6 de julio comenzará a regir la nueva rotación del pico y placa en Popayán', 2 de julio de 2026"
+}

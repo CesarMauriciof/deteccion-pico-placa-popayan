@@ -1,0 +1,82 @@
+{
+  "escenas": 300,
+  "deteccion": 0.94,
+  "segmentacion_sobre_detectadas": 0.9184397163120568,
+  "precision_caracter_cnn": 0.9607464607464608,
+  "placas_correctas_sobre_segmentadas": 0.9343629343629344,
+  "placas_correctas_sin_formato_sobre_segmentadas": 0.9266409266409267,
+  "tesseract_placas_correctas_sobre_segmentadas": 0.6138996138996139,
+  "tesseract_precision_caracter": 0.7722007722007722,
+  "sistema_completo_placas_correctas": 0.8066666666666666,
+  "imagenes_sin_placa": 51,
+  "falsos_positivos": 0,
+  "ms_por_imagen": 59.59288706668,
+  "fps": 16.780526153751783,
+  "tipos_de_error": {
+    "segmentación": 23,
+    "no detectada": 18,
+    "lectura": 17
+  },
+  "ejemplos_error": [
+    [
+      "VYU520",
+      "segmentación (2 caracteres)"
+    ],
+    [
+      "RET932",
+      "no detectada"
+    ],
+    [
+      "ZOH556",
+      "no detectada"
+    ],
+    [
+      "TVF419",
+      "segmentación (4 caracteres)"
+    ],
+    [
+      "FQD953",
+      "no detectada"
+    ],
+    [
+      "WVK213",
+      "lectura: WVK121"
+    ],
+    [
+      "PWN055",
+      "segmentación (0 caracteres)"
+    ],
+    [
+      "IXJ104",
+      "segmentación (3 caracteres)"
+    ],
+    [
+      "DJM351",
+      "no detectada"
+    ],
+    [
+      "FFG863",
+      "lectura: WGT634"
+    ],
+    [
+      "OQX195",
+      "no detectada"
+    ],
+    [
+      "ZXL939",
+      "no detectada"
+    ],
+    [
+      "OJQ878",
+      "no detectada"
+    ],
+    [
+      "QNI223",
+      "segmentación (4 caracteres)"
+    ],
+    [
+      "KDV578",
+      "segmentación (4 caracteres)"
+    ]
+  ]
+}
